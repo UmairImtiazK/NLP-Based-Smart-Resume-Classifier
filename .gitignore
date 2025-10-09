@@ -1,0 +1,85 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === Virtual Environment ===
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === Streamlit Cache & Logs ===
+.streamlit/
+.streamlit_cache/
+streamlit_cache/
+.streamlit/secrets.toml
+
+# === Jupyter / IPython ===
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# === Data / Models / Temporary Files ===
+data/
+datasets/
+models/
+uploads/
+temp/
+tmp/
+*.log
+*.dat
+*.csv
+*.tsv
+*.pkl
+*.joblib
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === IDEs ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === OS Files ===
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# === Testing ===
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# === Local Configuration ===
+config.ini
+secrets.json
+*.env
+*.ini
+
+# === Miscellaneous ===
+*.bak
+*.swp
+*.tmp
