@@ -42,7 +42,6 @@ tmp/
 *.dat
 *.csv
 *.tsv
-*.pkl
 *.joblib
 *.pdf
 *.png
